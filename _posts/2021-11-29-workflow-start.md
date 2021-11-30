@@ -3,6 +3,7 @@ layout: post
 title: "Creating a Data Science Workflow"
 date:   2021-11-29 22:52:18 -0600
 categories: vim data-science
+published: False
 ---
 
 # Creating a Data Science Workflow: Starting Out
@@ -26,3 +27,12 @@ This eventually brought me to Regolith. Regolith is a bundling of software to cr
 ### Goals
 Overall I wanted to continue the keyboard-over-mouse philosophy of vim into more general usage. Regolith in particular has been helpful with that, however there's a long way to go. There are of course many addons to try out, but of course making the system too specific to me can make collaboration more difficult. I've only scratched the surface on this and I'm really looking forward to taking this further.
 So far I've really only covered setup, in part this is because it's what we've mostly spent time on over the first 3 days. As the course progresses, I'll post about how I work more generally. As the course progresses, I'll post about how I work more generally. As the course progresses, and I develop my own preferences, I'll post about how I work more generally.
+
+
+<script src="https://utteranc.es/client.js"
+        repo="UpGoerFive/UpGoerFive.github.io"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

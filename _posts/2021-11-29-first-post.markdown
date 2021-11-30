@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## Hello!
 
-I'm Nathaniel, and I've just started the Data Science program at Flatiron School last week. My goal for a long time was to be a professional violist. I made it through one degree before realizing that a music career was not a healthy way forward. I've been interested in programming for a while, but hadn't been able to put any time into it until I finished school. I graduated early in the pandemic, and a change into programming felt appropriate. I worked through a scheme book, and I took a few python courses while working at Starbucks during the week.
+I'm Nathaniel, and I've just started the Data Science program at Flatiron School last week. My goal for a long time was to be a professional violist, but I made it through one degree before realizing that a music career was not a healthy way forward. I've been interested in programming for a while, but hadn't been able to put any time into it until I finished school. I graduated early on in the pandemic, and a change into programming felt appropriate. I worked through a scheme book, and I took a few python courses while working at Starbucks during the week.
 
 I really wanted to attend Flatiron as a way to push myself, and as an opportunity to learn data science. I'd been briefly exposed to a few topics beforehand, but most of what I'd been doing had been much more general programming, and still at a very rudimentary level. Learning data science as a whole and getting job training at the same time seemed to be an obvious choice once the possibility of attending became real. This blog was started as part of the Flatiron course, but I'll also post other topics: thoughts on data science, how the course is going, or something unrelated I'm interested in. I'm not only new to data science, but new to blogging as well, so hopefully I can utilize learning one to learn the other.
 
@@ -17,7 +17,7 @@ The goal of this post is to share a few data science related topics that I find 
 
 ### F1
 
-I've been a Formula 1 fan for a while now. F1, like many other sports, likes to display on screen graphics to illustrate characteristics of the real life event These are used to show comparisons of how drivers brake going through corners, estimated overtaking difficulty, and reaction time comparisons at the start. The ti(y)re wear graphic has probably gotten the most attention, however.
+I've been a Formula 1 fan for a while now. F1, like many other sports, likes to display on screen graphics to illustrate characteristics of the real life event. These are used to show comparisons of how drivers brake going through corners, estimated overtaking difficulty, and reaction time comparisons at the start. The ti(y)re wear graphic has probably gotten the most attention, however.
 
 <img src="/assets/images/racefansdotnet-f1-graphics.jpg" alt="Hamilton Pitting for New Tires" width="50%"/>
 
@@ -36,6 +36,10 @@ By contrast, this New York Times [tool](https://www.nytimes.com/interactive/2021
 The location picker tool succeeds where the F1 diagrams fail by letting the audience understand some of the decision making, and by presenting the data with clarity but without over simplification. There may be more issues at hand with either project, but the transparency difference I find most interesting right now. I might find implementation ideas more appealing as I move through the course, but for right now my best understanding of the effectiveness of a visualization or a tool is as a user. Obviously my hope for moving forward is to gain understanding in different contexts, but working on clarity and communication seems to be quite important too.
 
 Thanks for reading! Please feel free to leave a comment or suggestion, I'd appreciate the advice.
+
+
+[github](https://github.com/UpGoerFive)
+[linkedin](www.linkedin.com/in/nathaniel-martin-73b037227)
 
 
 
