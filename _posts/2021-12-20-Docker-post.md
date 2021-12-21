@@ -6,7 +6,6 @@ categories: [Flatiron, Docker]
 published: True
 ---
 
-# A Brief Look At Docker
 
 In this post, I'd like to talk about Docker for a bit, what it's used for, and what are the alternatives.
 
