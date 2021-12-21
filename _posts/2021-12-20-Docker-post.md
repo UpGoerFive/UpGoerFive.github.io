@@ -3,7 +3,7 @@ layout: post
 title:  "A Brief Look At Docker"
 date:   2021-12-20 22:52:18 -0600
 categories: [Flatiron, Docker]
-published: False
+published: True
 ---
 
 # A Brief Look At Docker
