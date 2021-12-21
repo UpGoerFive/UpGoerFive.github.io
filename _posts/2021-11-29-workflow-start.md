@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Data Science Workflow"
 date:   2021-11-29 22:52:18 -0600
-categories: vim data-science
+categories: [vim, data-science]
 published: False
 ---
 
