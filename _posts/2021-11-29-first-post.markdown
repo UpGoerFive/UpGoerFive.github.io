@@ -3,6 +3,7 @@ layout: post
 title: "Data Science - Start"
 date:   2021-11-29 22:52:18 -0600
 categories: jekyll update
+published: True
 ---
 
 
