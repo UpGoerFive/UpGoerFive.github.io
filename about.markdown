@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! I'm Nathaniel. I'm currently a Data Science student at Flatiron and am interested in machine learning, python, vim, and ~~Star Trek~~ other professional topics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find me at:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[GitHub](https://github.com/UpGoerFive)
 
-
-[jekyll-organization]: https://github.com/jekyll
+[LinkedIn](www.linkedin.com/in/nathaniel-martin-73b037227)
