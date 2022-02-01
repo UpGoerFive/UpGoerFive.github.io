@@ -10,4 +10,4 @@ You can find me at:
 
 [GitHub](https://github.com/UpGoerFive)
 
-[LinkedIn]({% link www.linkedin.com/in/nathaniel-martin-73b037227 %})
+[LinkedIn](https://www.linkedin.com/in/nathaniel-martin-73b037227)
