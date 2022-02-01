@@ -12,7 +12,13 @@ On the Phase 2 project, my notebooks ended up being pretty messy as I was figuri
 
 ### Setting it up
 
-### Bugs
+### Lessons
+
+#### Planning for flexibility in your structure != flexibility in using your structure
+
+#### Don't repeat yourself means don't repeat your functionality
+
+#### Minimize new stakes if possible
 
 ### Improvements
 
