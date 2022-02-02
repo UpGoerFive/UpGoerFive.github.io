@@ -76,7 +76,7 @@ While we're exploring that, I'll do my best to be positive and look at what I wa
 
 My late decision to make our models pickleable kicked off this whole series of problems, or more accurately, exposed them. In general, I didn't consider the information I needed to get back out of the class enough. The initial version didn't have `remove_model` or `get_model`, only printing with `show_model`. Training and testing only gave back the cross validate scores and test accuracy. This was fine so long as we only cared about the model accuracy and could rerun our models easily. At the point I wanted to add pickling in, I had already baked in a pretty big roadblock for myself:
 
-<img src="/assets/images/pickle-error.png" alt="You can fill in the 'Technical Debt' square on your bingo card" width="50%"/>
+<img src="/assets/images/pickle-error.png" alt="You can fill in the 'Technical Debt' square on your bingo card"/>
 
 `pickle` can serialize SciKit-Learn object, so this one took me a while to figure out, but because the models had been given a default preprocessor with the `create_default_prep` method, that preprocessor is a local object, and we're locked. I'm not entirely sure how to solve this one other than by getting rid of the method, but at the point I was coming across this, I couldn't afford to spend more time on this issue, so there may be another solution I've overlooked.
 
