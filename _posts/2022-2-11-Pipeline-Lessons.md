@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons Learned Writing a SciKit-Learn Model Manager"
-date:   2022-2-2 9:52:18 -0600
+date:   2022-2-11 9:52:18 -0600
 categories: [Flatiron, sklearn, OOP]
 published: False
 ---
