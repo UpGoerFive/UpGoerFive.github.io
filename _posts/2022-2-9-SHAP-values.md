@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using SHAP Values for Feature Importance"
-date:   2022-2-9 22:52:18 -0600
+date:   2022-2-10 22:52:18 -0600
 categories: [Flatiron, Machine Learning]
 published: True
 ---
